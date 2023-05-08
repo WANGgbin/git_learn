@@ -40,3 +40,6 @@
 - 清空所有的 stash
 
     git stash clear
+
+# 其他资料
+[git-stash](https://www.jiyik.com/w/git/git-stash)
